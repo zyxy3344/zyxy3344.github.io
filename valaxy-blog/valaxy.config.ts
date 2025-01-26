@@ -45,4 +45,6 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
   unocss: { safelist },
+
+  base: '/',
 })
